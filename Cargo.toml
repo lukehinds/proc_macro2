@@ -1,5 +1,5 @@
 [package]
-name = "proc_macro2"
+name = "procmacro2"
 version = "1.0.69"
 authors = ["David Tolnay <dtolnay@gmail.com>", "Alex Crichton <alex@alexcrichton.com>"]
 autobenches = false
